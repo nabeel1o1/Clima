@@ -6,7 +6,7 @@ By the end of the module, I've created a beautiful, dark-mode enabled weather ap
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
-* Learned how to use the UITextField to get user input. 
+* Learned how to use the UITextField to get user input.
 * Learned about the delegate pattern.
 * Swift protocols and extensions. 
 * Swift guard keyword. 
